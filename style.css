@@ -1,0 +1,87 @@
+body{
+    /* background-color:rgb(202, 202, 202); */
+    background-image: url(./chemical-flasks-with-colored-liq.png);
+    background-size: cover;
+}
+
+.table1{
+    border-radius: 15px;
+}
+
+.table2{
+    border-radius: 15px;
+}
+
+.mainh{
+    border: 0.5px solid white;
+    color: white;
+    width: 300px;
+    margin: 30px 200px 30px 220px; /*top right bottom left */
+    padding-left: 300px;
+    padding-right: 300px;
+    border-radius: 30px;
+    /* box-shadow:3px 6px ; */
+}
+td{
+    width: 65px;
+    height: 40px;
+    border-radius: 15px;
+    text-align: center;
+}
+
+.number{
+    line-height: 0px;
+    font-size: 12px;
+    font-weight: bolder;
+}
+
+.name{
+    line-height: 0px;
+    font-weight: bolder;
+}
+
+.desc{
+    font-size: 12px;
+    line-height: 0px;
+    font-weight: bolder;
+}
+
+.color1{
+    background-image: linear-gradient(to bottom, green, yellow, red);
+}
+
+.color2{
+    background-image: linear-gradient(to bottom, red, seagreen, skyblue);
+}
+
+.color3{
+    background-image: linear-gradient(to bottom, orangered, red, yellow);
+}
+
+.color4{
+    background-image: linear-gradient(to bottom, blue, darkblue, lightblue);
+}
+
+.color5{
+    background-image: linear-gradient(to bottom, rgb(21, 21, 65), rgb(0, 255, 0), blue);
+}
+
+.color6{
+    background-image: linear-gradient(to bottom, rgb(65, 219, 65), red, wheat);
+}
+
+.color7{
+    background-image: linear-gradient(to bottom,  palevioletred, brown, rgb(241, 168, 33));
+}
+
+.color8{
+    background-image: linear-gradient(to bottom,  rgb(82, 82, 82), red, white, blue);
+}
+
+.color9{
+    background-image: linear-gradient(to right,  white, rgb(5, 187, 5),green);
+}
+
+.color10{
+    background-image: linear-gradient(to right,  rgb(0, 153, 204), white,rgb(0, 153, 204));
+}
